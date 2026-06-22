@@ -154,7 +154,8 @@ organic-fertilizer-erp/
 ## 📚 Documentation
 
 - **[Developer Documentation](docs/Developer_Documentation.pdf)** — full technical reference: architecture, sheet structures, formulas, Apps Script code, triggers, and maintenance guide.
-- **[User Manual](docs/User_Manual_Bangla.pdf)** — a complete, non-technical guide written for the business owner.
+- **[User Manual(English)](docs/User_Manual_English.pdf)** — a complete, non-technical guide written for the business owner.
+- **[User Manual(Bangla)](docs/User_Manual_Bangla.pdf)** — a complete, non-technical guide written for the business owner.
 
 ---
 
